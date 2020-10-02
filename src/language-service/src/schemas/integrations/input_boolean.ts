@@ -26,5 +26,5 @@ interface Item {
    * Name of the input boolean.
    * https://www.home-assistant.io/integrations/input_boolean#name
    */
-  name?: string;
+  name: string;
 }
